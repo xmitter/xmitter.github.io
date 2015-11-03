@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Just a website or whatever</title>
   <id>/atom.xml</id>
-  <updated>2015-11-03T11:34:00Z</updated>
+  <updated>2015-11-03T13:18:00Z</updated>
   <link href="http://xmitter.github.io/" />
   <link href="http://xmitter.github.io/atom.xml" rel="self" />
   <author>
@@ -10,6 +10,20 @@
     <email>cobweb@xmitter.cc</email>
   </author>
   <subtitle type="text">Etc etc</subtitle>
+  
+  <entry>
+    <title type="text">Authentication and Todo list</title>
+    <id>/post/authentication/</id>
+    <updated>2015-11-03T13:18:00Z</updated>
+    <published>2015-11-03T13:18:00Z</published>
+    <link href="http://xmitter.github.io/post/authentication/" />
+    <author>
+      <name>Frank</name>
+      <email>cobweb@xmitter.cc</email>
+    </author>
+    <content type="html"><![CDATA[<p>Well I have things working pretty well here, I think I&#x27;ve figured out why my ssh key wasn&#x27;t working for git pushes, so Thi spost should work with that. I need to write a small bash script to automate new post creation, as the process is completely manual right now. Just a small thing to create the text file for a post, give it a totle ad insert it into the Makefile would be great. </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="text">Hello, World</title>
@@ -23,20 +37,6 @@
     </author>
     <content type="html"><![CDATA[<p>Testing! This is a new blog post. I decided, for whatever reason, that I wanted to play with some static site generators. I started with Jekyll and Octopress, but those were pretty rickety and fiddly and annoying.</p>
 <p>So now I&#x27;ve switched over to the blogc utility, built in C and even more barebones. It was a lot simpler to get it up and running than the Ruby tools even though there were some odd Ruby requirements when compiling. I don&#x27;t know if this will be a regular thing, but it&#x27;s been interesting so far.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="text">Authentication and Todo list</title>
-    <id>/post/authentication/</id>
-    <updated>2015-11-03T13:18:00Z</updated>
-    <published>2015-11-03T13:18:00Z</published>
-    <link href="http://xmitter.github.io/post/authentication/" />
-    <author>
-      <name>Frank</name>
-      <email>cobweb@xmitter.cc</email>
-    </author>
-    <content type="html"><![CDATA[<p>Well I have things working pretty well here, I think I&#x27;ve figured out why my ssh key wasn&#x27;t working for git pushes, so Thi spost should work with that. I need to write a small bash script to automate new post creation, as the process is completely manual right now. Just a small thing to create the text file for a post, give it a totle ad insert it into the Makefile would be great. </p>
 ]]></content>
   </entry>
   
