@@ -26,4 +26,18 @@
 ]]></content>
   </entry>
   
+  <entry>
+    <title type="text">Authentication and Todo list</title>
+    <id>/post/authentication/</id>
+    <updated>2015-11-03T13:18:00Z</updated>
+    <published>2015-11-03T13:18:00Z</published>
+    <link href="http://xmitter.github.io/post/authentication/" />
+    <author>
+      <name>Frank</name>
+      <email>cobweb@xmitter.cc</email>
+    </author>
+    <content type="html"><![CDATA[<p>Well I have things working pretty well here, I think I&#x27;ve figured out why my ssh key wasn&#x27;t working for git pushes, so Thi spost should work with that. I need to write a small bash script to automate new post creation, as the process is completely manual right now. Just a small thing to create the text file for a post, give it a totle ad insert it into the Makefile would be great. </p>
+]]></content>
+  </entry>
+  
 </feed>
