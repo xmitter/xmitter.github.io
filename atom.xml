@@ -40,4 +40,19 @@
 ]]></content>
   </entry>
   
+  <entry>
+    <title type="text">automation</title>
+    <id>/post/automation/</id>
+    <updated>2015-11-05T10:32:00Z</updated>
+    <published>2015-11-05T10:32:00Z</published>
+    <link href="http://xmitter.github.io/post/automation/" />
+    <author>
+      <name>Frank</name>
+      <email>cobweb@xmitter.cc</email>
+    </author>
+    <content type="html"><![CDATA[<p>Yesterday and today I&#x27;ve been working on a small bash scrip to automate adding new posts, it&#x27;s working pretty well so far I should be able to finish it off today. Just about 20ish lines of bash, nothing fancy.</p>
+<p>It&#x27;s clunky and a little more DIY than what I&#x27;ve worked on lately, but I think that&#x27;s a good thing, as I&#x27;m learning a lot.</p>
+]]></content>
+  </entry>
+  
 </feed>
