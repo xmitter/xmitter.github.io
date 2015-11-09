@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Just a website or whatever</title>
   <id>/atom.xml</id>
-  <updated>2015-11-05T10:32:00Z</updated>
+  <updated>2015-11-09T11:25:00Z</updated>
   <link href="http://xmitter.github.io/" />
   <link href="http://xmitter.github.io/atom.xml" rel="self" />
   <author>
@@ -10,6 +10,20 @@
     <email>cobweb@xmitter.cc</email>
   </author>
   <subtitle type="text">Etc etc</subtitle>
+  
+  <entry>
+    <title type="text">A New Week</title>
+    <id>/post/a-new-week/</id>
+    <updated>2015-11-09T11:25:00Z</updated>
+    <published>2015-11-09T11:25:00Z</published>
+    <link href="http://xmitter.github.io/post/a-new-week/" />
+    <author>
+      <name>Frank</name>
+      <email>cobweb@xmitter.cc</email>
+    </author>
+    <content type="html"><![CDATA[<p>Well it&#x27;s a new week. We&#x27;ll have to see whether I can remember how to work all these things I set up, or if I get frustrated and just throw it all in the trash. Eh, I&#x27;m pretty confident I can make this work.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="text">automation</title>
@@ -21,7 +35,7 @@
       <name>Frank</name>
       <email>cobweb@xmitter.cc</email>
     </author>
-    <content type="html"><![CDATA[<p>Yesterday and today I&#x27;ve been working on a small bash scrip to automate adding new posts, it&#x27;s working pretty well so far I should be able to finish it off today. Just about 20ish lines of bash, nothing fancy.</p>
+    <content type="html"><![CDATA[<p>Yesterday and today I&#x27;ve been working on a small bash script to automate adding new posts, it&#x27;s working pretty well so far I should be able to finish it off today. Just about 20ish lines of bash, nothing fancy.</p>
 <p>It&#x27;s clunky and a little more DIY than what I&#x27;ve worked on lately, but I think that&#x27;s a good thing, as I&#x27;m learning a lot.</p>
 ]]></content>
   </entry>
@@ -36,7 +50,7 @@
       <name>Frank</name>
       <email>cobweb@xmitter.cc</email>
     </author>
-    <content type="html"><![CDATA[<p>Well I have things working pretty well here, I think I&#x27;ve figured out why my ssh key wasn&#x27;t working for git pushes, so Thi spost should work with that. I need to write a small bash script to automate new post creation, as the process is completely manual right now. Just a small thing to create the text file for a post, give it a totle ad insert it into the Makefile would be great. </p>
+    <content type="html"><![CDATA[<p>Well I have things working pretty well here, I think I&#x27;ve figured out why my ssh key wasn&#x27;t working for git pushes, so this post should work with that. I need to write a small bash script to automate new post creation, as the process is completely manual right now. Just a small thing to create the text file for a post, give it a title and insert it into the Makefile would be great. </p>
 ]]></content>
   </entry>
   
